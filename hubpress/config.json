@@ -1,10 +1,28 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "asastry1",
+    "repositoryName": "inflect-blog",
+    "branch": "master",
+    "cname": "blog.inflect.solutions"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "http://blog.inflect.solutions",
+    "hubpress": "https://teller-sheila-34856.netlify.com",
+    "theme": "//blog.inflect.solutions/themes/casper",
+    "images": "http://blog.inflect.solutions/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }
