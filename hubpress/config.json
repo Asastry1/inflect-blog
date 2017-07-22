@@ -24,5 +24,27 @@
       null
     ],
     "_Ctor": {}
+  },
+  "site": {
+    "title": "Inflect Solutions Insights",
+    "description": "Ideas, reflections, thoughts, and more from the Inflect Solutions team!",
+    "logo": "http://d33wubrfki0l68.cloudfront.net/f12a4248933efe72620eb9d7ba57b12d82d7a825/c95e7/images/logo_outlined_light.svg",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "UA-102928238-2",
+    "disqus": "inflect"
+  },
+  "socialnetwork": {
+    "email": "info@inflect.solutions",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
