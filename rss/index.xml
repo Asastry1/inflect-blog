@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Inflect Solutions Insights]]></title><description><![CDATA[Ideas, reflections, thoughts, and more from the Inflect Solutions team!]]></description><link>http://blog.inflect.solutions</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 Aug 2017 20:19:56 GMT</lastBuildDate><atom:link href="http://blog.inflect.solutions/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Who We Are]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Inflect Solutions Insights]]></title><description><![CDATA[Ideas, reflections, thoughts, and more from the Inflect Solutions team!]]></description><link>http://blog.inflect.solutions</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 Aug 2017 20:21:08 GMT</lastBuildDate><atom:link href="http://blog.inflect.solutions/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Who We Are]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>We come from numerous backgrounds including Corporate Finance, Data Analytics Consulting, E-Commerce, but we all are united by a love for entrepreneurship. Our core belief is that every business can benefit from the appropriate application of technology. As a team of diverse individuals with experience in a wide range of fields and technical backgrounds, we are uniquely equipped to tackle the challenges of growing businesses through careful strategic collaboration. In our experience, individuals and organizations without existing technical expertise are faced with a choice of expensive and ill-fitting off the shelf solutions, or the use of execution-oriented freelance labor without the appropriate strategy or project understanding.</p>
@@ -12,9 +12,11 @@
 <h2 id="_the_core_team">The Core Team</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p><strong>Aditya Sastry</strong>
-<em>Founder &amp; Digital Strategist</em>
-Aditya wrote his first program at 11, and completed his first commercial web development project at 14. An insatiable tinker-er, he has worked on numerous projects for clients of various sizes in both php based stacks and modern javascript development. After studying math and finance, then working in M&amp;A at a large financial institution, Aditya decided to pursue an entrepreneurial path with the goal of creating an environment focused on innovation through constant learning.</p>
+<p><strong>Aditya Sastry</strong> -
+<em>Founder &amp; Digital Strategist</em></p>
+</div>
+<div class="paragraph">
+<p>Aditya wrote his first program at 11, and completed his first commercial web development project at 14. An insatiable tinker-er, he has worked on numerous projects for clients of various sizes in both php based stacks and modern javascript development. After studying math and finance, then working in M&amp;A at a large financial institution, Aditya decided to pursue an entrepreneurial path with the goal of creating an environment focused on innovation through constant learning.</p>
 </div>
 <div class="paragraph">
 <p><strong>Jack McCarthy</strong> -
