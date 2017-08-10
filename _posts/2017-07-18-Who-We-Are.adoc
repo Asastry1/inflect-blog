@@ -7,8 +7,9 @@ To address this gap, Inflect Solutions focuses on a close understanding of your 
 
 == The Core Team
 
-*Aditya Sastry*
+*Aditya Sastry* -
 _Founder & Digital Strategist_
+
 Aditya wrote his first program at 11, and completed his first commercial web development project at 14. An insatiable tinker-er, he has worked on numerous projects for clients of various sizes in both php based stacks and modern javascript development. After studying math and finance, then working in M&A at a large financial institution, Aditya decided to pursue an entrepreneurial path with the goal of creating an environment focused on innovation through constant learning.
 
 *Jack McCarthy* - 
