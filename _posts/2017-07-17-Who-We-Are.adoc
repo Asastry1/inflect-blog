@@ -11,10 +11,12 @@ To address this gap, Inflect Solutions focuses on a close understanding of your 
 _Founder & Digital Strategist_
 Aditya wrote his first program at 11, and completed his first commercial web development project at 14. An insatiable tinker-er, he has worked on numerous projects for clients of various sizes in both php based stacks and modern javascript development. After studying math and finance, then working in M&A at a large financial institution, Aditya decided to pursue an entrepreneurial path with the goal of creating an environment focused on innovation through constant learning.
 
-*Jack McCarthy*
+*Jack McCarthy* - 
 _Marketing Specialist_
+
 A serial entrepreneur from Milwaukee, Jack first found success with his venture in ugly christmas sweaters as one of the first to set the trend. Following this with an array of successful e-commerce ventures utilizing nearly every channel of promotion to reach their respective niches, Jack is a digital marketing veteran. While studying entrepreneurship at Babson College, he established himself as a talented javascript developer with a deep understanding of SEO.
 
-*Tariq Jahshan*
+*Tariq Jahshan* - 
 _Analytics & Data Specialist_
+
 Tariq is an analytics professional focused on leveraging data to empower organizations to make better decisions for themselves. After graduating with a degree in Mathematics & Economics from the University of Southern California, Tariq spent half a year in Bangalore, India training in data science and project management. He currently works in New York City as a data science consultant to one of the worlds biggest banks.
