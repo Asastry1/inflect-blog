@@ -1,0 +1,22 @@
+= Who We Are
+:published_at: 2017-07-18
+
+We come from numerous backgrounds including Corporate Finance, Data Analytics Consulting, E-Commerce, but we all are united by a love for entrepreneurship. Our core belief is that every business can benefit from the appropriate application of technology. As a team of diverse individuals with experience in a wide range of fields and technical backgrounds, we are uniquely equipped to tackle the challenges of growing businesses through careful strategic collaboration. In our experience, individuals and organizations without existing technical expertise are faced with a choice of expensive and ill-fitting off the shelf solutions, or the use of execution-oriented freelance labor without the appropriate strategy or project understanding.
+
+To address this gap, Inflect Solutions focuses on a close understanding of your business' needs followed by strategic brainstorming. Only after a clear and agreed upon vision has been achieved do we start diving into specific technologies, rather than simply fitting your problems to existing case studies. We like to believe that we resemble a think-tank rather than a development or consulting agency as innovation is our primary motivation. Our highly versatile team has worked with everything from legacy systems to bleeding edge applications and has a deep understanding of the costs and benefits of the numerous technologies that can be applied.
+
+== The Core Team
+
+*Aditya Sastry*
+_Founder & Digital Strategist_
+Aditya wrote his first program at 11, and completed his first commercial web development project at 14. An insatiable tinker-er, he has worked on numerous projects for clients of various sizes in both php based stacks and modern javascript development. After studying math and finance, then working in M&A at a large financial institution, Aditya decided to pursue an entrepreneurial path with the goal of creating an environment focused on innovation through constant learning.
+
+*Jack McCarthy* - 
+_Marketing Specialist_
+
+A serial entrepreneur from Milwaukee, Jack first found success with his venture in ugly christmas sweaters as one of the first to set the trend. Following this with an array of successful e-commerce ventures utilizing nearly every channel of promotion to reach their respective niches, Jack is a digital marketing veteran. While studying entrepreneurship at Babson College, he established himself as a talented javascript developer with a deep understanding of SEO.
+
+*Tariq Jahshan* - 
+_Analytics & Data Specialist_
+
+Tariq is an analytics professional focused on leveraging data to empower organizations to make better decisions for themselves. After graduating with a degree in Mathematics & Economics from the University of Southern California, Tariq spent half a year in Bangalore, India training in data science and project management. He currently works in New York City as a data science consultant to one of the worlds biggest banks.
